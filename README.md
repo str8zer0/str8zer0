@@ -17,7 +17,7 @@
   <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg"/>
 </a>
 <a href="https://x.com/str8zer0">
-  <img height="50" src="1"/>
+  <img height="50" src="/images/x-icon.svg"/>
 </a>
 <a href="https://www.twitch.tv/str8zer0">  
   <img height="50" src="https://github.com/user-attachments/assets/0ed89409-a839-4779-b81a-a2bc3b615d36.png"/>
