@@ -1,3 +1,7 @@
+![11244080_x_twitter_elon musk_twitter new logo_icon](https://github.com/user-attachments/assets/cf121600-09a6-4829-a215-f53b675463bd)
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
@@ -18,10 +22,10 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 <a href="https://x.com/str8zer0">
-  <img height="50" src="![11244080_x_twitter_elon musk_twitter new logo_icon](https://github.com/user-attachments/assets/1995f57b-f07d-4968-a843-7a34cdfa8d4e)"/>
+  <img height="50" src="https://user-images.githubusercontent.com/43155104/414243430-0ed89409-a839-4779-b81a-a2bc3b615d36.png"/>
 </a>
-<a href="https://www.twitch.tv/str8zer0">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.twitch.tv/str8zer0">  
+  <img height="50" src="https://github.com/user-attachments/assets/0ed89409-a839-4779-b81a-a2bc3b615d36.png"/>
 </a>
 </p>
 
