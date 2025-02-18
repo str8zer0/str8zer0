@@ -89,3 +89,7 @@ hobbies: ["Gaming", "Cinema", "Outdoor Activities", "Sports", "Sci-Fi"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>  
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=Luck%20comes%20to%20thosе%20who%20seek%20it!&fontSize=36&height=150"/>  
+</p>
