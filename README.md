@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
@@ -24,7 +18,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
 <a href="https://x.com/str8zer0">
-  <img height="50" src="https://github.com/user-attachments/assets/beab9a5c-17f5-48d2-b7da-0559d3ff6ee0.png"/>
+  <img height="50" src="![11244080_x_twitter_elon musk_twitter new logo_icon](https://github.com/user-attachments/assets/1995f57b-f07d-4968-a843-7a34cdfa8d4e)"/>
 </a>
 <a href="https://www.twitch.tv/str8zer0">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
