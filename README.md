@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=150&section=header"/>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&fontAlign=80&fontAlignY=40&animation=blink&height=150&section=header"/>  
 </p>
 
 <h1 align="center">
@@ -7,14 +7,14 @@
 </h1>
 
 <p align="center">
-<a href="https://stackoverflow.com/users/27251333/radoslav-dimitrov">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<a href="https://stackoverflow.com/users/27251333">
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/str8zer0">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
 </a>
 <a href="https://dev.to/str8zer0">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+  <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DevTo-Dark.svg"/>
 </a>
 <a href="https://x.com/str8zer0">
   <img height="50" src="1"/>
