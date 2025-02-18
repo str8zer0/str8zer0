@@ -1,7 +1,3 @@
-![11244080_x_twitter_elon musk_twitter new logo_icon](https://github.com/user-attachments/assets/cf121600-09a6-4829-a215-f53b675463bd)
-
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
