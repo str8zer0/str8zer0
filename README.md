@@ -26,7 +26,7 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Radoslav Dimitrov
@@ -91,5 +91,5 @@ hobbies: ["Gaming", "Cinema", "Outdoor Activities", "Sports", "Sci-Fi"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=Luck%20comes%20to%20thosе%20who%20seek%20it!&fontSize=36&height=150"/>  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=Luck%20comes%20to%20thosе%20who%20seek%20it!&fontSize=36&fontColor=######&height=150"/>  
 </p>
