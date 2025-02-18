@@ -57,7 +57,7 @@ technical_background:
     "PC Hardware and Software Management",
   ]
   
-currently_learning: ["Python, Jango, and React Native"]
+currently_learning: ["Python, Jango, JavaScript and CSS"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Gaming", "Cinema", "Outdoor Activities", "Sports", "Sci-Fi"]
 ```
