@@ -91,5 +91,5 @@ hobbies: ["Gaming", "Cinema", "Outdoor Activities", "Sports", "Sci-Fi"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=Luck%20comes%20to%20thosе%20who%20seek%20it!&fontSize=36&fontColor=FFFFFF&stroke=000000&height=150"/>  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&text=Success%20comes%20to%20thosе%20who%20seek%20it!&fontSize=36&fontColor=FFFFFF&stroke=000000&height=150"/>  
 </p>
